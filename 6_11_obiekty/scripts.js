@@ -3,7 +3,8 @@ var person = {
     lastName: "Chojnacki",
     age: 29,
     showGreeting: function() {
-        console.log("Witaj " + this.firstName);
+//        console.log("Witaj " + this.firstName);
+        document.write("Witaj " + this.firstName);
     }
 }
 
