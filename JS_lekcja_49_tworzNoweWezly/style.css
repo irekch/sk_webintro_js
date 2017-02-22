@@ -1,0 +1,26 @@
+body {
+	font: 100%/1.4 Arial, Verdana, Helvetica, sans-serif;
+	background: #474747;
+	margin: 0;
+	padding: 0;
+}
+	
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+	color: #3e3e3e;
+}
+
+.out {
+	width: 960px;
+	background: #FFF;
+	margin: 0 auto;
+}
+
+
+.content {
+
+	padding: 10px 0;
+}
+
